@@ -1,2 +1,2 @@
 # aws_using_linux_
-its new
+AWS and Linux based web application deployment, load balancing, monitoring and troubleshooting project.
